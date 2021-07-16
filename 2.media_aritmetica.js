@@ -8,5 +8,5 @@ function solucao(lista) {
     const media = soma / lista.length
     console.log(media)
 
-} 
+}  
 solucao(lista)
