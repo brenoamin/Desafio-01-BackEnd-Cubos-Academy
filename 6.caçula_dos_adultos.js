@@ -8,6 +8,6 @@ function solucao(lista) {
         const menor = listaFiltrado.reduce((accumulator, currentValue) => currentValue < accumulator ? currentValue : accumulator)
         console.log(menor)
     }
-
+ 
 }
 solucao(lista)
